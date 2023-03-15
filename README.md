@@ -6,7 +6,9 @@ Hello-World!
 안녕하세요 전진우 입니다.
 
 <img src="pngwing.com.png" alt="my Image" style="width:450px; height:450px;">
+
 어릴 적 시절의 사진을 가져왔습니다.
+
 <hr>
 
 # 나의 나이

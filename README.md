@@ -5,7 +5,7 @@ Hello-World!
 # 나의 소개
 안녕하세요 전진우 입니다.
 
-<img src="pngwing.com.png" alt="my Image">
+<img src="pngwing.com.png" alt="my Image" style="width:100px; height:100px;">
 <hr>
 # 나의 나이
 

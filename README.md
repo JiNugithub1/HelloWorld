@@ -34,6 +34,7 @@ Hello-World!
 
 ※ 진호형의 수정사항
 pull 해보기
+alice 수정
 
 # 파이썬 Project "DYsubject"
 [DYsubject](/

@@ -32,6 +32,8 @@ Hello-World!
 수정완료 배진호형 돟움!
 
 
+※ 진호형의 수정사항
+pull 해보기
 
 # 파이썬 Project "DYsubject"
 [DYsubject](/

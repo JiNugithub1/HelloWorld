@@ -258,3 +258,21 @@ print(list(filter(filterfnc,[10,-3,-9,8,50,-1])))
 # lambda 표현 가능
 
 print(list(filter(lambda x : x>0,[10,-3,-9,8,50,-1])))
+
+
+def is_even(x) :
+    if x % 2 == 0:
+        return True
+    return False
+
+# for 반복문 이용
+arr1 =[]
+for val in range(1,11) :
+    if is_even(val):
+        arr1.append(val)
+print(f"arr function : {arr1}") 
+
+
+#filter 함수 이용
+arr2 = list(filter(is_even,range(1,11)))
+print(f'arr filter : {arr2}')
